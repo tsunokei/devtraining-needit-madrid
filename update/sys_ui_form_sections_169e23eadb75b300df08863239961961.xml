@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="169e23eadb75b300df08863239961961" sys_domain="global" table="x_58872_needit_needlt" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>keita.tsunoda</sys_created_by>
+            <sys_created_on>2019-06-06 02:24:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1a9e23eadb75b300df08863239961963</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needlt" name="x_58872_needit_needlt" sys_domain="global" view="Default view">169e23eadb75b300df08863239961961</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needlt" sys_domain="global" view="Default view">44ddef9edbf97300df0886323996194f</sys_ui_section>
+            <sys_updated_by>keita.tsunoda</sys_updated_by>
+            <sys_updated_on>2019-06-06 02:24:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>keita.tsunoda</sys_created_by>
+            <sys_created_on>2019-06-06 02:24:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>da9e63eadb75b300df08863239961937</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needlt" name="x_58872_needit_needlt" sys_domain="global" view="Default view">169e23eadb75b300df08863239961961</sys_ui_form>
+            <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needlt" sys_domain="global" view="Default view">d29e23eadb75b300df08863239961960</sys_ui_section>
+            <sys_updated_by>keita.tsunoda</sys_updated_by>
+            <sys_updated_on>2019-06-06 02:24:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>keita.tsunoda</sys_created_by>
+            <sys_created_on>2019-06-06 02:25:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bcdee3eadb75b300df088632399619b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needlt" name="x_58872_needit_needlt" sys_domain="global" view="Default view">169e23eadb75b300df08863239961961</sys_ui_form>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_58872_needit_needlt" sys_domain="global" view="Default view">34dee3eadb75b300df088632399619b2</sys_ui_section>
+            <sys_updated_by>keita.tsunoda</sys_updated_by>
+            <sys_updated_on>2019-06-06 02:25:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_58872_needit_needlt</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>keita.tsunoda</sys_created_by>
+            <sys_created_on>2019-06-06 02:24:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>169e23eadb75b300df08863239961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_58872_needit_needlt</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_form_sections_169e23eadb75b300df08863239961961</sys_update_name>
+            <sys_updated_by>keita.tsunoda</sys_updated_by>
+            <sys_updated_on>2019-06-06 02:24:26</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="f1ff6feadb75b300df088632399619e3" sys_domain="global" table="x_58872_needit_needlt" version="3" view="Create_New_View">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>keita.tsunoda</sys_created_by>
+            <sys_created_on>2019-06-06 02:30:25</sys_created_on>
+            <sys_id>b5ffefeadb75b300df08863239961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needlt" sys_domain="global" view="bdff6feadb75b300df088632399619df">f1ff6feadb75b300df088632399619e3</sys_ui_section>
+            <sys_updated_by>keita.tsunoda</sys_updated_by>
+            <sys_updated_on>2019-06-06 02:30:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_requested_for</element>
+            <position>1</position>
+            <sys_created_by>keita.tsunoda</sys_created_by>
+            <sys_created_on>2019-06-06 02:30:25</sys_created_on>
+            <sys_id>39ffefeadb75b300df08863239961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needlt" sys_domain="global" view="bdff6feadb75b300df088632399619df">f1ff6feadb75b300df088632399619e3</sys_ui_section>
+            <sys_updated_by>keita.tsunoda</sys_updated_by>
+            <sys_updated_on>2019-06-06 02:30:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>keita.tsunoda</sys_created_by>
+            <sys_created_on>2019-06-06 02:30:25</sys_created_on>
+            <sys_id>b9ffefeadb75b300df08863239961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needlt" sys_domain="global" view="bdff6feadb75b300df088632399619df">f1ff6feadb75b300df088632399619e3</sys_ui_section>
+            <sys_updated_by>keita.tsunoda</sys_updated_by>
+            <sys_updated_on>2019-06-06 02:30:25</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_when_needed</element>
+            <position>3</position>
+            <sys_created_by>keita.tsunoda</sys_created_by>
+            <sys_created_on>2019-06-06 02:30:25</sys_created_on>
+            <sys_id>3dffefeadb75b300df08863239961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needlt" sys_domain="global" view="bdff6feadb75b300df088632399619df">f1ff6feadb75b300df088632399619e3</sys_ui_section>
+            <sys_updated_by>keita.tsunoda</sys_updated_by>
+            <sys_updated_on>2019-06-06 02:30:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_request_type</element>
+            <position>4</position>
+            <sys_created_by>keita.tsunoda</sys_created_by>
+            <sys_created_on>2019-06-06 02:30:25</sys_created_on>
+            <sys_id>bdffefeadb75b300df08863239961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needlt" sys_domain="global" view="bdff6feadb75b300df088632399619df">f1ff6feadb75b300df088632399619e3</sys_ui_section>
+            <sys_updated_by>keita.tsunoda</sys_updated_by>
+            <sys_updated_on>2019-06-06 02:30:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_what_neede</element>
+            <position>5</position>
+            <sys_created_by>keita.tsunoda</sys_created_by>
+            <sys_created_on>2019-06-06 02:30:25</sys_created_on>
+            <sys_id>31ffefeadb75b300df08863239961913</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needlt" sys_domain="global" view="bdff6feadb75b300df088632399619df">f1ff6feadb75b300df088632399619e3</sys_ui_section>
+            <sys_updated_by>keita.tsunoda</sys_updated_by>
+            <sys_updated_on>2019-06-06 02:30:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>keita.tsunoda</sys_created_by>
+            <sys_created_on>2019-06-06 02:30:25</sys_created_on>
+            <sys_id>b1ffefeadb75b300df08863239961913</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needlt" sys_domain="global" view="bdff6feadb75b300df088632399619df">f1ff6feadb75b300df088632399619e3</sys_ui_section>
+            <sys_updated_by>keita.tsunoda</sys_updated_by>
+            <sys_updated_on>2019-06-06 02:30:25</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>7</position>
+            <sys_created_by>keita.tsunoda</sys_created_by>
+            <sys_created_on>2019-06-06 02:30:25</sys_created_on>
+            <sys_id>35ffefeadb75b300df08863239961913</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needlt" sys_domain="global" view="bdff6feadb75b300df088632399619df">f1ff6feadb75b300df088632399619e3</sys_ui_section>
+            <sys_updated_by>keita.tsunoda</sys_updated_by>
+            <sys_updated_on>2019-06-06 02:30:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>8</position>
+            <sys_created_by>keita.tsunoda</sys_created_by>
+            <sys_created_on>2019-06-06 02:30:25</sys_created_on>
+            <sys_id>b5ffefeadb75b300df08863239961913</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needlt" sys_domain="global" view="bdff6feadb75b300df088632399619df">f1ff6feadb75b300df088632399619e3</sys_ui_section>
+            <sys_updated_by>keita.tsunoda</sys_updated_by>
+            <sys_updated_on>2019-06-06 02:30:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_58872_needit_needlt</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>keita.tsunoda</sys_created_by>
+            <sys_created_on>2019-06-06 02:30:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f1ff6feadb75b300df088632399619e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_58872_needit_needlt</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_f1ff6feadb75b300df088632399619e3</sys_update_name>
+            <sys_updated_by>keita.tsunoda</sys_updated_by>
+            <sys_updated_on>2019-06-06 02:30:25</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Create New View" name="Create_New_View">bdff6feadb75b300df088632399619df</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
