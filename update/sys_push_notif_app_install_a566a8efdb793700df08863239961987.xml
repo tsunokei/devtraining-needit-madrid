@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2019-06-09 13:52:38</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>keita.tsunoda</sys_created_by>
+        <sys_created_on>2019-06-08 14:23:41</sys_created_on>
+        <sys_id>a566a8efdb793700df08863239961987</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>144F9CFCF0DF190891BC025C4C20FF4D4F4A59BB6BA2DFD187D2A3C9E6644B8F</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</sys_push_application_id>
+        <sys_push_platform_id display_value="Apple">20e71f30ff0002009738ffffffffff6b</sys_push_platform_id>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_a566a8efdb793700df08863239961987</sys_update_name>
+        <sys_updated_by>keita.tsunoda</sys_updated_by>
+        <sys_updated_on>2019-06-09 13:52:38</sys_updated_on>
+        <sys_user_id display_value="Keita Tsunoda">f772b90edb7d3300df088632399619e4</sys_user_id>
+        <token>144F9CFCF0DF190891BC025C4C20FF4D4F4A59BB6BA2DFD187D2A3C9E6644B8F</token>
+    </sys_push_notif_app_install>
+</record_update>
